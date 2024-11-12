@@ -25,7 +25,7 @@ export function Footer() {
               </div>
             </div>
             <span className="text-sm text-zinc-300">
-              © Developed by João Knisspell
+              © Developed by Waleed Awan
             </span>
           </div>
           <div className="flex flex-col gap-4">
